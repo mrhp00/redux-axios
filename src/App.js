@@ -1,7 +1,7 @@
 import React from 'react'
 import {connect} from 'react-redux'
-import Form from "./Form";
-import Reader from "./Reader";
+import Form from "./Form.js";
+import Reader from "./Reader.js";
 import {Container} from "react-bootstrap";
 import axios from "axios";
 
